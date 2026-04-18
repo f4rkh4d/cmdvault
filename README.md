@@ -40,7 +40,7 @@ cmdvault run a1b2c3d4
 
 ### Placeholders
 
-Save commands with variables — cmdvault will ask for values at runtime:
+Save commands with variables. cmdvault will ask for values at runtime:
 
 ```bash
 cmdvault add "ssh {{user}}@{{host}}" -d "SSH to server" -t ssh
@@ -65,8 +65,8 @@ cmdvault run a1b2c3d4
 
 ### Options
 
-- `--dry-run` on `run` — print the command without executing
-- `-y` on `rm` — skip confirmation
+- `--dry-run` on `run`. print the command without executing
+- `-y` on `rm`. skip confirmation
 
 ## Data
 

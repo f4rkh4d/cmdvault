@@ -11,7 +11,7 @@ Thanks for your interest in contributing!
 
 ## Code style
 
-- Keep changes focused — one logical change per PR.
+- Keep changes focused. one logical change per PR.
 - Add tests for new behavior.
 - Follow the existing module structure.
 
